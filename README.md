@@ -1,6 +1,9 @@
-# my-first-express
+# my-first-express mini exercises
 
-#### index.js Mini MIDDLEWARE excercise
+#### app.js Express exercise
+Calculator exercise where you pass in the operation and two numbers. 
+
+#### index.js MIDDLEWARE 
 Requirements:
 - Take the phrase: "I <3 JavaScript" (or any three-word phrase).
 - The endpoint /phrase  should print this string.
@@ -11,6 +14,3 @@ Requirements:
 - The fourth handler should issue the complete "request.phrase" response, without adding anything to the "request" object at all.
 
 example:   GET   /phrase   --> "I <3 JavaScript"
-
-#### app.js Express exercise
-Calculator exercise where you pass in the operation and two numbers. 
