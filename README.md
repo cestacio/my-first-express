@@ -13,3 +13,4 @@ Requirements:
 example:   GET   /phrase   --> "I <3 JavaScript"
 
 #### app.js Express exercise
+Calculator exercise where you pass in the operation and two numbers. 
